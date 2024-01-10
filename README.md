@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Frontend Developer.</h3>
 
 
 - 🌱 I’m currently learning **React** ![structure](https://github.com/ayu0308/ayu0308/assets/91965992/b2f52dde-956e-4739-b947-03ea54e0d5cc)
