@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Frontend Developer.</h3>
 
 
-- 🌱 I’m currently learning **React** ![structure](https://github.com/ayu0308/ayu0308/assets/91965992/b2f52dde-956e-4739-b947-03ea54e0d5cc)
+- 🌱 I’m currently learning **MERN** ![structure](https://github.com/ayu0308/ayu0308/assets/91965992/b2f52dde-956e-4739-b947-03ea54e0d5cc)
 
 
 - 👨‍💻 All of my projects are available at [ayushishwar.tech](ayushishwar.tech)
